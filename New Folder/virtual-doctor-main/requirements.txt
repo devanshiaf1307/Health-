@@ -1,0 +1,8 @@
+google-generativeai
+gradio
+pdfplumber
+pypdf
+langchain
+google-generativeai
+
+# api_key='AIzaSyCTmK35I8Hr3HF-BHOwwlBkvZxVBZCceOc'
